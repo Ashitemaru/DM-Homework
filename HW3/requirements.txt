@@ -1,0 +1,8 @@
+xmltodict
+tqdm
+nltk
+wordcloud
+pandas
+matplotlib
+numpy
+sklearn
